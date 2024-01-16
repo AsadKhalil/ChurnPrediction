@@ -70,7 +70,7 @@ Feel free to mail me for any doubts/query
 :email: asadkhalil1@gmail.com
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/AsadKhalil/FaceMaskDetection) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the   repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 ## :heart: Owner
 Made with :heart:&nbsp;  by [Asad](https://github.com/AsadKhalil)
